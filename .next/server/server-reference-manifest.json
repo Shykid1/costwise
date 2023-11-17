@@ -1,0 +1,76 @@
+{
+  "node": {
+    "d8ee66ea6e171ef1f86a2e67b8111f6ba19bb471": {
+      "workers": {
+        "app/products/[id]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CYussif's%20Desktop%5C%5CDesktop%5C%5Ccostwise%5C%5Clib%5C%5Cactions%5C%5Cindex.ts%22%2C%5B%22getAllProducts%22%2C%22scrapeAndStoreProduct%22%2C%22getProductById%22%2C%22getSimilarProducts%22%2C%22addUserEmailToProduct%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5CYussif's%20Desktop%5C%5CDesktop%5C%5Ccostwise%5C%5Clib%5C%5Cnodemailer%5C%5Cindex.ts%22%2C%5B%22generateEmailBody%22%2C%22sendEmail%22%5D%5D%5D&__client_imported__=!",
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CYussif's%20Desktop%5C%5CDesktop%5C%5Ccostwise%5C%5Clib%5C%5Cactions%5C%5Cindex.ts%22%2C%5B%22getAllProducts%22%2C%22scrapeAndStoreProduct%22%2C%22getProductById%22%2C%22getSimilarProducts%22%2C%22addUserEmailToProduct%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5CYussif's%20Desktop%5C%5CDesktop%5C%5Ccostwise%5C%5Clib%5C%5Cnodemailer%5C%5Cindex.ts%22%2C%5B%22generateEmailBody%22%2C%22sendEmail%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/products/[id]/page": "rsc",
+        "app/page": "rsc"
+      }
+    },
+    "5eee36df5878091f3736896ce586c4e30b2950a0": {
+      "workers": {
+        "app/products/[id]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CYussif's%20Desktop%5C%5CDesktop%5C%5Ccostwise%5C%5Clib%5C%5Cactions%5C%5Cindex.ts%22%2C%5B%22getAllProducts%22%2C%22scrapeAndStoreProduct%22%2C%22getProductById%22%2C%22getSimilarProducts%22%2C%22addUserEmailToProduct%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5CYussif's%20Desktop%5C%5CDesktop%5C%5Ccostwise%5C%5Clib%5C%5Cnodemailer%5C%5Cindex.ts%22%2C%5B%22generateEmailBody%22%2C%22sendEmail%22%5D%5D%5D&__client_imported__=!",
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CYussif's%20Desktop%5C%5CDesktop%5C%5Ccostwise%5C%5Clib%5C%5Cactions%5C%5Cindex.ts%22%2C%5B%22getAllProducts%22%2C%22scrapeAndStoreProduct%22%2C%22getProductById%22%2C%22getSimilarProducts%22%2C%22addUserEmailToProduct%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5CYussif's%20Desktop%5C%5CDesktop%5C%5Ccostwise%5C%5Clib%5C%5Cnodemailer%5C%5Cindex.ts%22%2C%5B%22generateEmailBody%22%2C%22sendEmail%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/products/[id]/page": "rsc",
+        "app/page": "rsc"
+      }
+    },
+    "bebd378c5f23c8f1f9126c1af3906fc4a2713171": {
+      "workers": {
+        "app/products/[id]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CYussif's%20Desktop%5C%5CDesktop%5C%5Ccostwise%5C%5Clib%5C%5Cactions%5C%5Cindex.ts%22%2C%5B%22getAllProducts%22%2C%22scrapeAndStoreProduct%22%2C%22getProductById%22%2C%22getSimilarProducts%22%2C%22addUserEmailToProduct%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5CYussif's%20Desktop%5C%5CDesktop%5C%5Ccostwise%5C%5Clib%5C%5Cnodemailer%5C%5Cindex.ts%22%2C%5B%22generateEmailBody%22%2C%22sendEmail%22%5D%5D%5D&__client_imported__=!",
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CYussif's%20Desktop%5C%5CDesktop%5C%5Ccostwise%5C%5Clib%5C%5Cactions%5C%5Cindex.ts%22%2C%5B%22getAllProducts%22%2C%22scrapeAndStoreProduct%22%2C%22getProductById%22%2C%22getSimilarProducts%22%2C%22addUserEmailToProduct%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5CYussif's%20Desktop%5C%5CDesktop%5C%5Ccostwise%5C%5Clib%5C%5Cnodemailer%5C%5Cindex.ts%22%2C%5B%22generateEmailBody%22%2C%22sendEmail%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/products/[id]/page": "rsc",
+        "app/page": "rsc"
+      }
+    },
+    "f4d08e6d323e884546d44c38e2fdbb4ffdb35d52": {
+      "workers": {
+        "app/products/[id]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CYussif's%20Desktop%5C%5CDesktop%5C%5Ccostwise%5C%5Clib%5C%5Cactions%5C%5Cindex.ts%22%2C%5B%22getAllProducts%22%2C%22scrapeAndStoreProduct%22%2C%22getProductById%22%2C%22getSimilarProducts%22%2C%22addUserEmailToProduct%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5CYussif's%20Desktop%5C%5CDesktop%5C%5Ccostwise%5C%5Clib%5C%5Cnodemailer%5C%5Cindex.ts%22%2C%5B%22generateEmailBody%22%2C%22sendEmail%22%5D%5D%5D&__client_imported__=!",
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CYussif's%20Desktop%5C%5CDesktop%5C%5Ccostwise%5C%5Clib%5C%5Cactions%5C%5Cindex.ts%22%2C%5B%22getAllProducts%22%2C%22scrapeAndStoreProduct%22%2C%22getProductById%22%2C%22getSimilarProducts%22%2C%22addUserEmailToProduct%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5CYussif's%20Desktop%5C%5CDesktop%5C%5Ccostwise%5C%5Clib%5C%5Cnodemailer%5C%5Cindex.ts%22%2C%5B%22generateEmailBody%22%2C%22sendEmail%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/products/[id]/page": "rsc",
+        "app/page": "rsc"
+      }
+    },
+    "84f7f175c4cdb138accdf7b17eb0e893f2933c56": {
+      "workers": {
+        "app/products/[id]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CYussif's%20Desktop%5C%5CDesktop%5C%5Ccostwise%5C%5Clib%5C%5Cactions%5C%5Cindex.ts%22%2C%5B%22getAllProducts%22%2C%22scrapeAndStoreProduct%22%2C%22getProductById%22%2C%22getSimilarProducts%22%2C%22addUserEmailToProduct%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5CYussif's%20Desktop%5C%5CDesktop%5C%5Ccostwise%5C%5Clib%5C%5Cnodemailer%5C%5Cindex.ts%22%2C%5B%22generateEmailBody%22%2C%22sendEmail%22%5D%5D%5D&__client_imported__=!",
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CYussif's%20Desktop%5C%5CDesktop%5C%5Ccostwise%5C%5Clib%5C%5Cactions%5C%5Cindex.ts%22%2C%5B%22getAllProducts%22%2C%22scrapeAndStoreProduct%22%2C%22getProductById%22%2C%22getSimilarProducts%22%2C%22addUserEmailToProduct%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5CYussif's%20Desktop%5C%5CDesktop%5C%5Ccostwise%5C%5Clib%5C%5Cnodemailer%5C%5Cindex.ts%22%2C%5B%22generateEmailBody%22%2C%22sendEmail%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/products/[id]/page": "rsc",
+        "app/page": "rsc"
+      }
+    },
+    "fd877af76f76bb2847712454baf33e777d15c243": {
+      "workers": {
+        "app/products/[id]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CYussif's%20Desktop%5C%5CDesktop%5C%5Ccostwise%5C%5Clib%5C%5Cactions%5C%5Cindex.ts%22%2C%5B%22getAllProducts%22%2C%22scrapeAndStoreProduct%22%2C%22getProductById%22%2C%22getSimilarProducts%22%2C%22addUserEmailToProduct%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5CYussif's%20Desktop%5C%5CDesktop%5C%5Ccostwise%5C%5Clib%5C%5Cnodemailer%5C%5Cindex.ts%22%2C%5B%22generateEmailBody%22%2C%22sendEmail%22%5D%5D%5D&__client_imported__=!",
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CYussif's%20Desktop%5C%5CDesktop%5C%5Ccostwise%5C%5Clib%5C%5Cactions%5C%5Cindex.ts%22%2C%5B%22getAllProducts%22%2C%22scrapeAndStoreProduct%22%2C%22getProductById%22%2C%22getSimilarProducts%22%2C%22addUserEmailToProduct%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5CYussif's%20Desktop%5C%5CDesktop%5C%5Ccostwise%5C%5Clib%5C%5Cnodemailer%5C%5Cindex.ts%22%2C%5B%22generateEmailBody%22%2C%22sendEmail%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/products/[id]/page": "rsc",
+        "app/page": "rsc"
+      }
+    },
+    "a85af950ea35f67eb8c593da374ae0f1b524bea9": {
+      "workers": {
+        "app/products/[id]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CYussif's%20Desktop%5C%5CDesktop%5C%5Ccostwise%5C%5Clib%5C%5Cactions%5C%5Cindex.ts%22%2C%5B%22getAllProducts%22%2C%22scrapeAndStoreProduct%22%2C%22getProductById%22%2C%22getSimilarProducts%22%2C%22addUserEmailToProduct%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5CYussif's%20Desktop%5C%5CDesktop%5C%5Ccostwise%5C%5Clib%5C%5Cnodemailer%5C%5Cindex.ts%22%2C%5B%22generateEmailBody%22%2C%22sendEmail%22%5D%5D%5D&__client_imported__=!",
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CYussif's%20Desktop%5C%5CDesktop%5C%5Ccostwise%5C%5Clib%5C%5Cactions%5C%5Cindex.ts%22%2C%5B%22getAllProducts%22%2C%22scrapeAndStoreProduct%22%2C%22getProductById%22%2C%22getSimilarProducts%22%2C%22addUserEmailToProduct%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5CYussif's%20Desktop%5C%5CDesktop%5C%5Ccostwise%5C%5Clib%5C%5Cnodemailer%5C%5Cindex.ts%22%2C%5B%22generateEmailBody%22%2C%22sendEmail%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/products/[id]/page": "rsc",
+        "app/page": "rsc"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "WZxwNh62pnshf4gWj7eeUE9wRwJYFQJUxix2R+IYRy0="
+}
